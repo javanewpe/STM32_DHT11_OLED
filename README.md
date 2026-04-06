@@ -22,7 +22,7 @@
 
 # \- OLED SDA -> PB7
 
-# \- DHT11 DATA -> PA0
+# \- DHT11 DATA -> PA6
 
 # \- 全部 3.3V 供电
 
